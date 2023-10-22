@@ -9,7 +9,7 @@
 The VTEX Login app handles user login in your store.
 
 ![login-component-gif](https://cdn.jsdelivr.net/gh/vtexdocs/dev-portal-content@main/images/vtex-login-0.gif)
-
+# Apna college
 ## Configuration
 
 1. Add the Login app to your theme dependencies in the `manifest.json` file:
